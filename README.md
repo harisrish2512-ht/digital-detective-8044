@@ -23,6 +23,11 @@ USN: 2402608044
 8. [Mission 7 – Networking](mission-07-networking/README.md)
 9. [Mission 8 – Final Report](mission-08-final-report/README.md)
 
+## My Learning
+1. I have revised my basic CLI commands and worked everything to be stored in github using git commands.
+2. I learnt python accessability with CLI, it's execution and it's working.
+3. I learnt how we can use python in-built functions to verify number system conversions.
+
 ## Completion Process
 
 Each mission is completed and committed separately.
