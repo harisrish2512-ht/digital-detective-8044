@@ -73,7 +73,7 @@ I researched about few commands which I wasn't sure of, in online.
 
 This README, redacted screenshots.
 
-![alt text](<Mission 3.png>)
+![alt text](Mission_3.png)
 
 ## 8. Commit details
 "Document operating system and file management" — pushed and verified.
