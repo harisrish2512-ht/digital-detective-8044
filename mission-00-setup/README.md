@@ -8,7 +8,7 @@ Created the local folder `digital-detective-8044`, nine mission folders plus `ev
 Created a public GitHub repo with the same name and pushed.
 
 ## 3. Commands / tools used
-- `python3 --version` [Python 3.13.14]→ v: checks Python is installed
+- `python3 --version` → [Python 3.13.14]: checks Python is installed
 - `git --version` → [git version 2.55.0]: checks Git is installed
 - `mkdir -p`: creates folders
 - `touch`: creates empty files
