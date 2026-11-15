@@ -27,9 +27,7 @@ The PID is the unique number the OS gives each process.
 84515 ttys000    0:00.27 -zsh
 96851 ttys002    0:00.10 /bin/zsh -il
 
-| Information | Command | What it tells me | Observation |
-|---|---|---|---|
-| Processes | `ps aux \| head` | List of processes with PID | It showed few processes with its PID |
+-  `ps aux \| head` -> List of processes with PID | It showed few processes with its PID 
 
 ### Task 3.3 -  Understand paths and permissions
 
