@@ -23,10 +23,10 @@ Created a public GitHub repo with the same name and pushed.
 - Each Folder represents one mission so each mission is separate, easy to review, and has its own commit.
 
 ## 5. Difficulties faced
-["No major difficulties as I'm clear with creating a repo in github"]
+No major difficulties as I'm clear with creating a repo in github
 
 ## 6. How I resolved them
-["Not applicable"]
+Not applicable
 
 ## 7. Evidence / files
 All mission folders, `README.md`, `evidence/.gitkeep`, `number_converter.py` (empty for now).
