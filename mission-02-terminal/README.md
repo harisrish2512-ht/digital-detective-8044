@@ -10,7 +10,7 @@ Practised file commands, created `terminal-practice/` with `notes.txt` (two line
 
 | Operation | Command | What it does | What I observed |
 |---|---|---|---|
-| Current directory | `pwd` | Prints the full path of where I am | /Users/harisriht/Desktop/digital-detective-8044 |
+| Current directory | `pwd` | Prints the full path of where I am | /Users/[Redacted]/Desktop/digital-detective-8044 |
 | Directory listing | `ls` | Lists files and folders | Names of folders present only |
 | Detailed listing | `ls -l` | Lists with permissions, size, date | Extra columns appeared |
 | Change directory | `cd ..` | Moves to the parent folder | `pwd` showed a shorter path |
